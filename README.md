@@ -15,8 +15,5 @@
 - 1: Run<strong> yarn</strong> ( install all dependencies);
 - 2: Run<strong> yarn start</strong> ( Run server );
 
-## :memo: Licença
-
----
 
 Qualquer dúvida só me comunicar =] (tiagohenriquequeiroz@gmail.com)
