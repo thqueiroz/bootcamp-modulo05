@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="React Project" title="React Project" src="./readme.png" width="300px" />
+  <img alt="React Project" title="React Project" src="./readme.png" width="500px" />
 </h1>
 
 <h3 align="center">
